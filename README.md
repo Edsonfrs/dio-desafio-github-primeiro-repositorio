@@ -1,6 +1,6 @@
 # Desafio: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
-Reforcando meu conhecimento em Git com um desafio de projeto totalmente prático, onde executo todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
+Reforçando meu conhecimento em Git com um desafio de projeto totalmente prático, onde executo todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
 
 # Projeto
 
